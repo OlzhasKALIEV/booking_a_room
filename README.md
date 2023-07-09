@@ -4,4 +4,4 @@
 - python -m venv venv
 - .\venv\Scripts\activate
 
-- django-admin startproject mysite
+- django-admin startproject mysiterewerwerw
